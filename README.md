@@ -6,15 +6,26 @@
 
 <div align="center">
 
-# Artwork
+# 🎨<br>Artwork
+
+This Repository contains the Artwork for 🙃 Phony Framework.
 
 </div>
 
-This repository contains the 🙃 Phony artwork.
+<div align="center">
 
-> If you want to start generating realistic fake data with Phony, visit the main **[Phony Repository](https://github.com/phonyland/phony)**.
+# 🙃
 
-- Explore the docs: **[phony.land »](https://phony.land/)**
-- Follow us on Twitter: **[@phonyphp »](https://twitter.com/phonyphp)**
+Start generating data with 🙃 Phony Framework,  
+visit the main **[Phony Repository](https://github.com/phonyland/phony)**.
 
-Phony was created by **[Yunus Emre Deligöz](https://twitter.com/yedeligoez)** under the **[MIT license](https://opensource.org/licenses/MIT)**.
+Explore the docs: **[phony.land »](https://phony.land/)**  
+Follow us on Twitter: **[@phony_land »](https://twitter.com/phony_land)**
+
+**[🙃 Phony Data Generation Framework](https://phony.land)**  
+was created by  
+**[Yunus Emre Deligöz](https://twitter.com/yedeligoez)**  
+under  
+**[MIT license](https://opensource.org/licenses/MIT)**.
+
+</div>
